@@ -34,6 +34,13 @@ public class PlayerScript : MonoBehaviour
 		vertical = (int) Input.GetAxisRaw ("Vertical");
 
 		Move (horizontal, vertical);
+
+		int fire1 = (int) Input.GetAxisRaw("Jump");
+
+		if (fire1 != 0)
+		{
+			m_animator.SetTrigger("fire1");
+		}
 	}
 
 	private void Move(int horizontal, int vertical)
