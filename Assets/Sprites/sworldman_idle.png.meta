@@ -1,0 +1,1111 @@
+fileFormatVersion: 2
+guid: 6aeb1bd6c38e9f34995b0e1f1ccf9bcd
+timeCreated: 1430823542
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sworldman_idle_0
+    21300002: sworldman_idle_1
+    21300004: sworldman_idle_2
+    21300006: sworldman_idle_3
+    21300008: sworldman_idle_4
+    21300010: sworldman_idle_5
+    21300012: sworldman_idle_6
+    21300014: sworldman_idle_7
+    21300016: sworldman_idle_8
+    21300018: sworldman_idle_9
+    21300020: sworldman_idle_10
+    21300022: sworldman_idle_11
+    21300024: sworldman_idle_12
+    21300026: sworldman_idle_13
+    21300028: sworldman_idle_14
+    21300030: sworldman_idle_15
+    21300032: sworldman_idle_16
+    21300034: sworldman_idle_17
+    21300036: sworldman_idle_18
+    21300038: sworldman_idle_19
+    21300040: sworldman_idle_20
+    21300042: sworldman_idle_21
+    21300044: sworldman_idle_22
+    21300046: sworldman_idle_23
+    21300048: sworldman_idle_24
+    21300050: sworldman_idle_25
+    21300052: sworldman_idle_26
+    21300054: sworldman_idle_27
+    21300056: sworldman_idle_28
+    21300058: sworldman_idle_29
+    21300060: sworldman_idle_30
+    21300062: sworldman_idle_31
+    21300064: sworldman_idle_32
+    21300066: sworldman_idle_33
+    21300068: sworldman_idle_34
+    21300070: sworldman_idle_35
+    21300072: sworldman_idle_36
+    21300074: sworldman_idle_37
+    21300076: sworldman_idle_38
+    21300078: sworldman_idle_39
+    21300080: sworldman_idle_40
+    21300082: sworldman_idle_41
+    21300084: sworldman_idle_42
+    21300086: sworldman_idle_43
+    21300088: sworldman_idle_44
+    21300090: sworldman_idle_45
+    21300092: sworldman_idle_46
+    21300094: sworldman_idle_47
+    21300096: sworldman_idle_48
+    21300098: sworldman_idle_49
+    21300100: sworldman_idle_50
+    21300102: sworldman_idle_51
+    21300104: sworldman_idle_52
+    21300106: sworldman_idle_53
+    21300108: sworldman_idle_54
+    21300110: sworldman_idle_55
+    21300112: sworldman_idle_56
+    21300114: sworldman_idle_57
+    21300116: sworldman_idle_58
+    21300118: sworldman_idle_59
+    21300120: sworldman_idle_60
+    21300122: sworldman_idle_61
+    21300124: sworldman_idle_62
+    21300126: sworldman_idle_63
+    21300128: sworldman_idle_64
+    21300130: sworldman_idle_65
+    21300132: sworldman_idle_66
+    21300134: sworldman_idle_67
+    21300136: sworldman_idle_68
+    21300138: sworldman_idle_69
+    21300140: sworldman_idle_70
+    21300142: sworldman_idle_71
+    21300144: sworldman_idle_72
+    21300146: sworldman_idle_73
+    21300148: sworldman_idle_74
+    21300150: sworldman_idle_75
+    21300152: sworldman_idle_76
+    21300154: sworldman_idle_77
+    21300156: sworldman_idle_78
+    21300158: sworldman_idle_79
+    21300160: sworldman_idle_80
+    21300162: sworldman_idle_81
+    21300164: sworldman_idle_82
+    21300166: sworldman_idle_83
+    21300168: sworldman_idle_84
+    21300170: sworldman_idle_85
+    21300172: sworldman_idle_86
+    21300174: sworldman_idle_87
+    21300176: sworldman_idle_88
+    21300178: sworldman_idle_89
+    21300180: sworldman_idle_90
+    21300182: sworldman_idle_91
+    21300184: sworldman_idle_92
+    21300186: sworldman_idle_93
+    21300188: sworldman_idle_94
+    21300190: sworldman_idle_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: sworldman_idle_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 462
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_1
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 462
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 462
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 462
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 462
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_5
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 462
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 462
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 462
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_8
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 462
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_9
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 462
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 412
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 412
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 412
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_13
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 412
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_14
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 412
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_15
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 412
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 412
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 412
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 412
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_19
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 412
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_20
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 362
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_21
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 362
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 362
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_23
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 362
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_24
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 362
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_25
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 362
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_26
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 362
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 362
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_28
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 362
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_29
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 362
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_31
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_32
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_33
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_34
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_35
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_36
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_37
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_38
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_39
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 312
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_41
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_42
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_44
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_45
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_46
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_48
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_49
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 262
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_50
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_51
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_53
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_54
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_55
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_56
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_57
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_58
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_59
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 212
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_60
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 162
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_61
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 162
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_62
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 162
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_63
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 162
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_64
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 162
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_65
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 162
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_66
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 162
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_67
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 162
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_68
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 162
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_69
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 162
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_70
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_71
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 112
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_72
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 112
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_73
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 112
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_74
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 112
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_75
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 112
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_76
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 112
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_77
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 112
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_78
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 112
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_79
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 112
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 62
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_81
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 62
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_82
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 62
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_83
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 62
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_84
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 62
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_85
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 62
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_86
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 62
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_87
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 62
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_88
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 62
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_89
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 62
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_90
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 12
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_91
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 12
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_92
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 12
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_93
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 12
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_94
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 12
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: sworldman_idle_95
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 12
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
