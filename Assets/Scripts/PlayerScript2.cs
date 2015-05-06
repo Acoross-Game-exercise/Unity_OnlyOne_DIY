@@ -8,8 +8,6 @@ public class PlayerScript2 : MonoBehaviour
 
 	private Animator m_Animator;
 
-	int m_tmpCounter = 0;
-
 	void Start ()
 	{
 		m_Animator = GetComponent<Animator>();
@@ -79,12 +77,47 @@ public class PlayerScript2 : MonoBehaviour
 		}
 		else if (m_WalkingState == WalkingState.Walking)
 		{
+			//Move (horizontal, vertical);	// 모든방향 버전
+			Move ();	// 4방향 only
+
 			if (horizontal == 0 && vertical == 0)
 			{
 				m_WalkingState = WalkingState.Idle;
 				m_Animator.SetBool("isWalking", false);
 			}
 		}
+
+	}
+
+	private void Move()
+	{
+		int horizontal = 0;
+		int vertical = 0;
+
+		switch (m_Direction)
+		{
+		case Direction.Down:
+			vertical = -1;
+			break;
+		case Direction.Up:
+			vertical = 1;
+			break;
+		case Direction.Right:
+			horizontal = 1;
+			break;
+		case Direction.Left:
+			horizontal = -1;
+			break;
+		default:
+			break;
+		}
+
+		Move (horizontal, vertical);
+	}
+
+	private void Move(int horizontal, int vertical)
+	{
+		transform.Translate (new Vector3(horizontal, vertical, 0f) * Time.deltaTime);
 	}
 
 	public bool ChangeDirection(int horizontal, int vertical)
