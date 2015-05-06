@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 9a0497da09271924da7087ef65555cb6
-timeCreated: 1430805908
+timeCreated: 1430923398
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -180,640 +180,640 @@ TextureImporter:
     - name: swordman_0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 340
-        width: 32
-        height: 38
+        x: 0
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
-      pivot: {x: .5, y: .5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_1
       rect:
         serializedVersion: 2
-        x: 56
-        y: 340
-        width: 32
-        height: 38
+        x: 48
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_2
       rect:
         serializedVersion: 2
-        x: 104
-        y: 340
-        width: 32
-        height: 38
+        x: 96
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_3
       rect:
         serializedVersion: 2
-        x: 152
-        y: 340
-        width: 32
-        height: 38
+        x: 144
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_4
       rect:
         serializedVersion: 2
-        x: 200
-        y: 340
-        width: 32
-        height: 38
+        x: 192
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_5
       rect:
         serializedVersion: 2
-        x: 248
-        y: 340
-        width: 32
-        height: 38
+        x: 240
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_6
       rect:
         serializedVersion: 2
-        x: 296
-        y: 340
-        width: 32
-        height: 38
+        x: 288
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_7
       rect:
         serializedVersion: 2
-        x: 344
-        y: 340
-        width: 32
-        height: 38
+        x: 336
+        y: 336
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_8
       rect:
         serializedVersion: 2
-        x: 8
-        y: 292
-        width: 32
-        height: 38
+        x: 0
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_9
       rect:
         serializedVersion: 2
-        x: 56
-        y: 292
-        width: 32
-        height: 38
+        x: 48
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_10
       rect:
         serializedVersion: 2
-        x: 104
-        y: 292
-        width: 32
-        height: 38
+        x: 96
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_11
       rect:
         serializedVersion: 2
-        x: 152
-        y: 292
-        width: 32
-        height: 38
+        x: 144
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_12
       rect:
         serializedVersion: 2
-        x: 200
-        y: 292
-        width: 32
-        height: 38
+        x: 192
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_13
       rect:
         serializedVersion: 2
-        x: 248
-        y: 292
-        width: 32
-        height: 38
+        x: 240
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_14
       rect:
         serializedVersion: 2
-        x: 296
-        y: 292
-        width: 32
-        height: 38
+        x: 288
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_15
       rect:
         serializedVersion: 2
-        x: 344
-        y: 292
-        width: 32
-        height: 38
+        x: 336
+        y: 288
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_16
       rect:
         serializedVersion: 2
-        x: 8
-        y: 244
-        width: 32
-        height: 38
+        x: 0
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_17
       rect:
         serializedVersion: 2
-        x: 56
-        y: 244
-        width: 32
-        height: 38
+        x: 48
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_18
       rect:
         serializedVersion: 2
-        x: 104
-        y: 244
-        width: 32
-        height: 38
+        x: 96
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_19
       rect:
         serializedVersion: 2
-        x: 152
-        y: 244
-        width: 32
-        height: 38
+        x: 144
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_20
       rect:
         serializedVersion: 2
-        x: 200
-        y: 244
-        width: 32
-        height: 38
+        x: 192
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_21
       rect:
         serializedVersion: 2
-        x: 248
-        y: 244
-        width: 32
-        height: 38
+        x: 240
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_22
       rect:
         serializedVersion: 2
-        x: 296
-        y: 244
-        width: 32
-        height: 38
+        x: 288
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_23
       rect:
         serializedVersion: 2
-        x: 344
-        y: 244
-        width: 32
-        height: 38
+        x: 336
+        y: 240
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_24
       rect:
         serializedVersion: 2
-        x: 8
-        y: 196
-        width: 32
-        height: 38
+        x: 0
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_25
       rect:
         serializedVersion: 2
-        x: 56
-        y: 196
-        width: 32
-        height: 38
+        x: 48
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_26
       rect:
         serializedVersion: 2
-        x: 104
-        y: 196
-        width: 32
-        height: 38
+        x: 96
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_27
       rect:
         serializedVersion: 2
-        x: 152
-        y: 196
-        width: 32
-        height: 38
+        x: 144
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_28
       rect:
         serializedVersion: 2
-        x: 200
-        y: 196
-        width: 32
-        height: 38
+        x: 192
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_29
       rect:
         serializedVersion: 2
-        x: 248
-        y: 196
-        width: 32
-        height: 38
+        x: 240
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_30
       rect:
         serializedVersion: 2
-        x: 296
-        y: 196
-        width: 32
-        height: 38
+        x: 288
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_31
       rect:
         serializedVersion: 2
-        x: 344
-        y: 196
-        width: 32
-        height: 38
+        x: 336
+        y: 192
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_32
       rect:
         serializedVersion: 2
-        x: 8
-        y: 148
-        width: 32
-        height: 38
+        x: 0
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_33
       rect:
         serializedVersion: 2
-        x: 56
-        y: 148
-        width: 32
-        height: 38
+        x: 48
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_34
       rect:
         serializedVersion: 2
-        x: 104
-        y: 148
-        width: 32
-        height: 38
+        x: 96
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_35
       rect:
         serializedVersion: 2
-        x: 152
-        y: 148
-        width: 32
-        height: 38
+        x: 144
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_36
       rect:
         serializedVersion: 2
-        x: 200
-        y: 148
-        width: 32
-        height: 38
+        x: 192
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_37
       rect:
         serializedVersion: 2
-        x: 248
-        y: 148
-        width: 32
-        height: 38
+        x: 240
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_38
       rect:
         serializedVersion: 2
-        x: 296
-        y: 148
-        width: 32
-        height: 38
+        x: 288
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_39
       rect:
         serializedVersion: 2
-        x: 344
-        y: 148
-        width: 32
-        height: 38
+        x: 336
+        y: 144
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_40
       rect:
         serializedVersion: 2
-        x: 8
-        y: 100
-        width: 32
-        height: 38
+        x: 0
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_41
       rect:
         serializedVersion: 2
-        x: 56
-        y: 100
-        width: 32
-        height: 38
+        x: 48
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_42
       rect:
         serializedVersion: 2
-        x: 104
-        y: 100
-        width: 32
-        height: 38
+        x: 96
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_43
       rect:
         serializedVersion: 2
-        x: 152
-        y: 100
-        width: 32
-        height: 38
+        x: 144
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_44
       rect:
         serializedVersion: 2
-        x: 200
-        y: 100
-        width: 32
-        height: 38
+        x: 192
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_45
       rect:
         serializedVersion: 2
-        x: 248
-        y: 100
-        width: 32
-        height: 38
+        x: 240
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_46
       rect:
         serializedVersion: 2
-        x: 296
-        y: 100
-        width: 32
-        height: 38
+        x: 288
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_47
       rect:
         serializedVersion: 2
-        x: 344
-        y: 100
-        width: 32
-        height: 38
+        x: 336
+        y: 96
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_48
       rect:
         serializedVersion: 2
-        x: 8
-        y: 52
-        width: 32
-        height: 38
+        x: 0
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_49
       rect:
         serializedVersion: 2
-        x: 56
-        y: 52
-        width: 32
-        height: 38
+        x: 48
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_50
       rect:
         serializedVersion: 2
-        x: 104
-        y: 52
-        width: 32
-        height: 38
+        x: 96
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_51
       rect:
         serializedVersion: 2
-        x: 152
-        y: 52
-        width: 32
-        height: 38
+        x: 144
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_52
       rect:
         serializedVersion: 2
-        x: 200
-        y: 52
-        width: 32
-        height: 38
+        x: 192
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_53
       rect:
         serializedVersion: 2
-        x: 248
-        y: 52
-        width: 32
-        height: 38
+        x: 240
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_54
       rect:
         serializedVersion: 2
-        x: 296
-        y: 52
-        width: 32
-        height: 38
+        x: 288
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_55
       rect:
         serializedVersion: 2
-        x: 344
-        y: 52
-        width: 32
-        height: 38
+        x: 336
+        y: 48
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_56
       rect:
         serializedVersion: 2
-        x: 8
-        y: 4
-        width: 32
-        height: 38
+        x: 0
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_57
       rect:
         serializedVersion: 2
-        x: 56
-        y: 4
-        width: 32
-        height: 38
+        x: 48
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_58
       rect:
         serializedVersion: 2
-        x: 104
-        y: 4
-        width: 32
-        height: 38
+        x: 96
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_59
       rect:
         serializedVersion: 2
-        x: 152
-        y: 4
-        width: 32
-        height: 38
+        x: 144
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_60
       rect:
         serializedVersion: 2
-        x: 200
-        y: 4
-        width: 32
-        height: 38
+        x: 192
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_61
       rect:
         serializedVersion: 2
-        x: 248
-        y: 4
-        width: 32
-        height: 38
+        x: 240
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_62
       rect:
         serializedVersion: 2
-        x: 296
-        y: 4
-        width: 32
-        height: 38
+        x: 288
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
     - name: swordman_63
       rect:
         serializedVersion: 2
-        x: 344
-        y: 4
-        width: 32
-        height: 38
+        x: 336
+        y: 0
+        width: 48
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

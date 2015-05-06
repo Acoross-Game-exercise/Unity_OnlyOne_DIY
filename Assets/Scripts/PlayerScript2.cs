@@ -5,16 +5,28 @@ public class PlayerScript2 : MonoBehaviour
 {
 	public WalkingState m_WalkingState = WalkingState.Idle;
 	public Direction m_Direction = Direction.Right;
+	public GameObject m_Sword;
+	public GameObject m_SwordInstance;
 
 	private Animator m_Animator;
 
 	void Start ()
 	{
 		m_Animator = GetComponent<Animator>();
+
+		// 칼 생성
+		m_SwordInstance = Instantiate(m_Sword);
+		m_SwordInstance.transform.Translate(new Vector2(0f, 0f));
+		m_SwordInstance.transform.SetParent(transform);
 	}
 
 	public void AttackAnimationCallback()
 	{
+		(m_SwordInstance.GetComponent<BoxCollider2D>() as BoxCollider2D).isTrigger = false;
+		StopCoroutine("SwingSword");
+		m_SwordInstance.transform.rotation = Quaternion.identity;
+
+
 		m_WalkingState = WalkingState.Idle;
 
 		string cmd = "";
@@ -40,6 +52,22 @@ public class PlayerScript2 : MonoBehaviour
 		m_Animator.SetTrigger(cmd);
 	}
 
+	public void StartSwing()
+	{
+		StartCoroutine("SwingSword");
+	}
+
+	IEnumerator SwingSword()
+	{
+		while(true)
+		{
+			// 90도 swing
+			m_SwordInstance.transform.Rotate(new Vector3(0f, 0f, 1f), -Time.deltaTime*600, Space.Self);
+			
+			yield return null;
+		}
+	}
+
 	void Update ()
 	{
 		if (m_WalkingState == WalkingState.Action)
@@ -52,6 +80,10 @@ public class PlayerScript2 : MonoBehaviour
 		{
 			m_WalkingState = WalkingState.Action;
 			m_Animator.SetTrigger("triggerAttack");
+
+			SwordColliderListner swordScript = m_SwordInstance.GetComponent<SwordColliderListner>();
+			(m_SwordInstance.GetComponent<BoxCollider2D>() as BoxCollider2D).isTrigger = true;
+
 			return;
 		}
 
