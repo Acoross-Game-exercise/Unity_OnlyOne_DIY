@@ -222,7 +222,8 @@ Prefab:
       propertyPath: m_IsTrigger
       value: 0
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 0}
   m_ParentPrefab: {fileID: 100100000, guid: 3a099b185ad736742bdbf5ebaa293d3c, type: 2}
   m_IsPrefabParent: 0
 --- !u!1001 &668106596
@@ -278,8 +279,8 @@ GameObject:
   - 212: {fileID: 730356052}
   - 95: {fileID: 730356051}
   - 114: {fileID: 730356050}
-  - 61: {fileID: 730356049}
   - 50: {fileID: 730356054}
+  - 61: {fileID: 730356049}
   m_Layer: 0
   m_Name: NPC
   m_TagString: Untagged
@@ -290,17 +291,16 @@ GameObject:
 --- !u!61 &730356049
 BoxCollider2D:
   m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 6112706, guid: 3a099b185ad736742bdbf5ebaa293d3c,
-    type: 2}
-  m_PrefabInternal: {fileID: 652615701}
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 730356048}
   m_Enabled: 1
   m_Material: {fileID: 0}
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Size: {x: .600000024, y: 1}
+  m_Size: {x: .400000006, y: 1}
 --- !u!114 &730356050
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -365,7 +365,7 @@ Transform:
   m_PrefabInternal: {fileID: 652615701}
   m_GameObject: {fileID: 730356048}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 2, y: 0, z: 0}
+  m_LocalPosition: {x: 1, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

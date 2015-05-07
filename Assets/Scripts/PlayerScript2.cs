@@ -18,11 +18,13 @@ public class PlayerScript2 : MonoBehaviour
 		m_SwordInstance = Instantiate(m_Sword);
 		m_SwordInstance.transform.Translate(new Vector2(0f, 0f));
 		m_SwordInstance.transform.SetParent(transform);
+		m_SwordInstance.gameObject.SetActive(false);
 	}
 
 	public void AttackAnimationCallback()
 	{
-		(m_SwordInstance.GetComponent<BoxCollider2D>() as BoxCollider2D).isTrigger = false;
+		//(m_SwordInstance.GetComponent<BoxCollider2D>() as BoxCollider2D).isTrigger = false;
+		m_SwordInstance.gameObject.SetActive(false);
 		StopCoroutine("SwingSword");
 		m_SwordInstance.transform.rotation = Quaternion.identity;
 
@@ -54,6 +56,7 @@ public class PlayerScript2 : MonoBehaviour
 
 	public void StartSwing()
 	{
+		m_SwordInstance.gameObject.SetActive(true);
 		StartCoroutine("SwingSword");
 	}
 
@@ -62,7 +65,7 @@ public class PlayerScript2 : MonoBehaviour
 		while(true)
 		{
 			// 90도 swing
-			m_SwordInstance.transform.Rotate(new Vector3(0f, 0f, 1f), -Time.deltaTime*600, Space.Self);
+			m_SwordInstance.transform.Rotate(new Vector3(0f, 0f, 1f), -Time.deltaTime*600, Space.World);
 			
 			yield return null;
 		}
@@ -82,7 +85,7 @@ public class PlayerScript2 : MonoBehaviour
 			m_Animator.SetTrigger("triggerAttack");
 
 			SwordColliderListner swordScript = m_SwordInstance.GetComponent<SwordColliderListner>();
-			(m_SwordInstance.GetComponent<BoxCollider2D>() as BoxCollider2D).isTrigger = true;
+			//(m_SwordInstance.GetComponent<BoxCollider2D>() as BoxCollider2D).isTrigger = true;
 
 			return;
 		}
@@ -149,7 +152,10 @@ public class PlayerScript2 : MonoBehaviour
 
 	private void Move(int horizontal, int vertical)
 	{
-		transform.Translate (new Vector3(horizontal, vertical, 0f) * Time.deltaTime);
+		if (Input.GetKey(KeyCode.LeftControl))
+			transform.Translate (new Vector3(horizontal, vertical, 0f) * Time.deltaTime * 3f);	// left control 누르면 3배 빠름.
+		else
+			transform.Translate (new Vector3(horizontal, vertical, 0f) * Time.deltaTime);
 	}
 
 	public bool ChangeDirection(int horizontal, int vertical)

@@ -3,8 +3,6 @@ using System.Collections;
 
 public class SwordColliderListner : MonoBehaviour 
 {
-	public SwordColliderListner targetListner = null;
-
 	// Use this for initialization
 	void Start () {
 	
