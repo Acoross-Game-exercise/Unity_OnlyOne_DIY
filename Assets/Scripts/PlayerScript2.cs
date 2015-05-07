@@ -153,9 +153,9 @@ public class PlayerScript2 : MonoBehaviour
 	private void Move(int horizontal, int vertical)
 	{
 		if (Input.GetKey(KeyCode.LeftControl))
-			transform.Translate (new Vector3(horizontal, vertical, 0f) * Time.deltaTime * 3f);	// left control 누르면 3배 빠름.
+			transform.Translate (new Vector3(horizontal, vertical, vertical * 10f) * Time.deltaTime * 3f);	// left control 누르면 3배 빠름.
 		else
-			transform.Translate (new Vector3(horizontal, vertical, 0f) * Time.deltaTime);
+			transform.Translate (new Vector3(horizontal, vertical, vertical * 10f) * Time.deltaTime);
 	}
 
 	public bool ChangeDirection(int horizontal, int vertical)
